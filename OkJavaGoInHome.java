@@ -6,7 +6,7 @@ import org.opentutorials.iot.Security;
 
 public class OkJavaGoInHome {
  
-	// parameter, 매개변수
+	// parameter
 	public static void main(String[] args) {
 		
 		String id=args[0];
